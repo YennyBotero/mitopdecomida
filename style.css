@@ -1,0 +1,13 @@
+.titulo-1{
+    color: white;
+    background-color: green;
+}
+body{
+    background-image: url(http://pm1.narvii.com/6700/8258583e8a281be26115dd5ac4b3507cf2fbaed5_00.jpg);
+    background-size: 500px;
+}
+.boton{
+    color: white;
+    background-color: green;
+}
+tr{background-color:darkseagreen;}
